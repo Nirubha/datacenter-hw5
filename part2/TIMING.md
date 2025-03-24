@@ -1,0 +1,1 @@
+--- Clone 1 took 19.937345027923584 seconds ------ Clone 2 took 24.094542026519775 seconds ------ Clone 3 took 19.284364938735962 seconds ---
